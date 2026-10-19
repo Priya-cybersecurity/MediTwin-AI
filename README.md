@@ -124,6 +124,29 @@ MediTwin_AI/
 - Add real edge-device and cloud integration.
 - Complete medical-device safety, privacy, and clinical validation before any real-world use.
 
+
+## System Architecture
+
+```mermaid
+flowchart TD
+    A["Simulated Medical Equipment Data"]
+    B["Streamlit Dashboard"]
+    C["Data Processing and Feature Analysis"]
+    D["AI Anomaly Detection<br/>Isolation Forest"]
+    E["Equipment Health and Priority Rules"]
+    F["Status Cards and Trend Charts"]
+    G["Maintenance Alerts and History"]
+    H["CSV Report Download"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    E --> G
+    G --> H
+```
+
 ## Suggested GitHub description
 
 Privacy-aware healthcare equipment Digital Twin prototype with simulated telemetry, anomaly alerts, maintenance decision support, and edge–cloud workflow demonstration.
