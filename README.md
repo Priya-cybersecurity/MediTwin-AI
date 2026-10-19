@@ -159,7 +159,9 @@ flowchart TD
     E --> G
     G --> H
 ```
+## 🎥 Project Demo Video
 
+[▶ Watch MediTwin AI Demo on YouTube](https://youtu.be/ZQl8lNmitoM)
 ## Suggested GitHub description
 
 Privacy-aware healthcare equipment Digital Twin prototype with simulated telemetry, anomaly alerts, maintenance decision support, and edge–cloud workflow demonstration.
