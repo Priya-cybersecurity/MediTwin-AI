@@ -132,6 +132,12 @@ MediTwin_AI/
 - Complete medical-device safety, privacy, and clinical validation before any real-world use.
 
 
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
+
+
 ## System Architecture
 
 ```mermaid
