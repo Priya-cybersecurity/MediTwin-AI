@@ -159,6 +159,14 @@ flowchart TD
     E --> G
     G --> H
 ```
+## 📊 Project Presentation
+
+[View MediTwin AI Presentation (PPTX)](MediTwin_AI_Project_Presentation.pptx)
+
+## 📄 Project Report
+
+[View MediTwin AI Project Report (PDF)](MediTwin_AI_Proper_Project_Report.pdf)
+
 ## 🎥 Project Demo Video
 
 [▶ Watch MediTwin AI Demo on YouTube](https://youtu.be/ZQl8lNmitoM)
