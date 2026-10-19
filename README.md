@@ -1,3 +1,29 @@
+
+## Team and Institution
+
+**College:** Adhiyamaan College of Engineering  
+**Department:** Computer Science and Engineering (Cybersecurity)  
+**Programme:** B.E. CSE (Cybersecurity)
+
+### Team Members
+
+| Name | Role |
+|---|---|
+| Priyadharshini S | Team Lead |
+| Madhanraj S | Team Member |
+
+
+### College / Incubator Information
+
+**Institution:** Adhiyamaan College of Engineering  
+**Programme:** B.E. CSE (Cybersecurity)  
+**Incubator Affiliation:** Not applicable — the project is being developed independently by the student team for the Hack-A-Throne hackathon.
+
+
+### Project
+
+**Project Name:** MediTwin AI
+
 # MediTwin AI
 
 **Privacy-aware Healthcare Equipment Digital Twin — beginner hackathon prototype**
