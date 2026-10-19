@@ -81,7 +81,14 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Streamlit will print a local URL, usually `http://localhost:8501`.
+
+## Application URLs
+
+- **Local URL:** http://localhost:8501
+- **Network URL:** http://10.109.128.131:8501
+
+> Note: The Network URL is intended for access on a compatible local network while the Streamlit app is running.
+
 
 ## Demo steps
 
