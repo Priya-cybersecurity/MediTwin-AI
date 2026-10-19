@@ -127,3 +127,5 @@ MediTwin_AI/
 ## Suggested GitHub description
 
 Privacy-aware healthcare equipment Digital Twin prototype with simulated telemetry, anomaly alerts, maintenance decision support, and edge–cloud workflow demonstration.
+
+**Repository maintained by:** Priyadharshini S
